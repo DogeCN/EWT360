@@ -626,3 +626,72 @@
 [2024-08-01 19:15:13,248]--INFO:[0][account:dhdc434430070],Please wait
 [2024-08-01 19:15:14,759]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510914213},"msg":"ok","success":true}
 [2024-08-01 19:15:40,974]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510940426,"eventId":"1-66ab6e5c-156f9d96-5269eb7733dc"}}
+[2024-08-01 19:16:01,531]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510960987},"msg":"ok","success":true}
+[2024-08-01 19:16:01,794]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510961170},"msg":"ok","success":true}
+[2024-08-01 19:16:02,565]--INFO:[2201][account:dhdc434430070],LESSON OK, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:16:02,565]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 19:16:02,567]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:16:03,476]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510962920},"msg":"ok","success":true}
+[2024-08-01 19:16:41,467]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511000922,"eventId":"1-66ab6e98-15c3c2de-1e26b64f83cf"}}
+[2024-08-01 19:17:05,003]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511024443},"msg":"ok","success":true}
+[2024-08-01 19:17:05,028]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511024466},"msg":"ok","success":true}
+[2024-08-01 19:17:05,812]--INFO:[2201][account:dhdc434430070],LESSON OK, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 19:17:05,813]--INFO:[2201][account:dhdc434430070],LESSON START, [title:化学开学第一课,lessonid:65928,courseid:14521]
+[2024-08-01 19:17:05,813]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:17:07,369]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511026806},"msg":"ok","success":true}
+[2024-08-01 19:17:41,162]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511060601,"eventId":"1-66ab6ed4-15d8796a-d5508dd83094"}}
+[2024-08-01 19:18:09,478]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511088811},"msg":"ok","success":true}
+[2024-08-01 19:18:41,310]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511120715,"eventId":"1-66ab6f10-158a1252-5a68776b696c"}}
+[2024-08-01 19:19:09,594]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511149023},"msg":"ok","success":true}
+[2024-08-01 19:19:44,517]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511183937,"eventId":"1-66ab6f4f-15ed6fe1-65f666f89528"}}
+[2024-08-01 19:19:45,480]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511184907},"msg":"ok","success":true}
+[2024-08-01 19:19:45,529]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511184954},"msg":"ok","success":true}
+[2024-08-01 19:19:51,320]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:因式分解之十字相乘法,lessonid:65155,courseid:18493]
+[2024-08-01 19:19:51,320]--INFO:[2201][account:dhdc434430070],LESSON START, [title:派生法—前缀,lessonid:66317,courseid:22616]
+[2024-08-01 19:19:51,321]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:19:53,489]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511192910},"msg":"ok","success":true}
+[2024-08-01 19:20:08,444]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511207869,"eventId":"1-66ab6f67-150b9a51-df08e3dabfef"}}
+[2024-08-01 19:20:53,618]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511253035},"msg":"ok","success":true}
+[2024-08-01 19:21:09,586]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511268990,"eventId":"1-66ab6fa4-15031e97-adf1289f87ed"}}
+[2024-08-01 19:21:54,610]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511314021},"msg":"ok","success":true}
+[2024-08-01 19:22:09,235]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511328487,"eventId":"1-66ab6fe0-15ed6fe1-52d8db668330"}}
+[2024-08-01 19:22:42,070]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511361485},"msg":"ok","success":true}
+[2024-08-01 19:22:42,119]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511361532},"msg":"ok","success":true}
+[2024-08-01 19:22:45,131]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:化学开学第一课,lessonid:65928,courseid:14521]
+[2024-08-01 19:22:45,133]--INFO:[2201][account:dhdc434430070],LESSON START, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 19:22:45,133]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:22:47,386]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511366795},"msg":"ok","success":true}
+[2024-08-01 19:22:53,041]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511372439,"eventId":"1-66ab700c-15638ac1-e016e303e42f"}}
+[2024-08-01 19:23:47,579]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511426976},"msg":"ok","success":true}
+[2024-08-01 19:23:53,084]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511432484,"eventId":"1-66ab7048-15db65fd-6309a1b8b644"}}
+[2024-08-01 19:24:24,195]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511463595},"msg":"ok","success":true}
+[2024-08-01 19:24:24,215]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511463610},"msg":"ok","success":true}
+[2024-08-01 19:24:25,629]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:派生法—前缀,lessonid:66317,courseid:22616]
+[2024-08-01 19:24:25,629]--INFO:[2201][account:dhdc434430070],LESSON START, [title:高中物理必备实验知识,lessonid:65131,courseid:14494]
+[2024-08-01 19:24:25,629]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:24:27,022]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511466418},"msg":"ok","success":true}
+[2024-08-01 19:24:50,737]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511490123,"eventId":"1-66ab7082-153de29a-f55f2e6db963"}}
+[2024-08-01 19:25:28,911]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511528310},"msg":"ok","success":true}
+[2024-08-01 19:25:48,259]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511547643,"eventId":"1-66ab70bb-158f219a-bcb17e9cd245"}}
+[2024-08-01 19:26:31,196]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511590593},"msg":"ok","success":true}
+[2024-08-01 19:26:48,252]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511607636,"eventId":"1-66ab70f7-15f5b67d-389a8390732f"}}
+[2024-08-01 19:27:28,763]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511648139},"msg":"ok","success":true}
+[2024-08-01 19:27:47,983]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511667370,"eventId":"1-66ab7133-15c3c2de-316b2e5bc9f3"}}
+[2024-08-01 19:28:28,313]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511707656},"msg":"ok","success":true}
+[2024-08-01 19:28:48,568]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511727924,"eventId":"1-66ab716f-159ca704-a27b6049b049"}}
+[2024-08-01 19:29:28,880]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511768227},"msg":"ok","success":true}
+[2024-08-01 19:29:51,297]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511790657,"eventId":"1-66ab71ae-1586adb3-f75da0b36258"}}
+[2024-08-01 19:30:28,555]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511827905},"msg":"ok","success":true}
+[2024-08-01 19:30:28,592]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511827957},"msg":"ok","success":true}
+[2024-08-01 19:30:28,643]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511828002},"msg":"ok","success":true}
+[2024-08-01 19:30:30,382]--INFO:[2201][account:dhdc434430070],LESSON OK, [title:高中物理必备实验知识,lessonid:65131,courseid:14494]
+[2024-08-01 19:30:30,382]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66121,courseid:16156]
+[2024-08-01 19:30:30,382]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:30:31,736]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511831068},"msg":"ok","success":true}
+[2024-08-01 19:30:51,355]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722511850723,"eventId":"1-66ab71ea-158a59e8-91ebc01ab666"}}
+[2024-08-01 19:31:18,635]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511877988},"msg":"ok","success":true}
+[2024-08-01 19:31:18,654]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511878001},"msg":"ok","success":true}
+[2024-08-01 19:31:19,883]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 19:31:19,883]--INFO:[2201][account:dhdc434430070],LESSON START, [title:春花秋月，词有芬芳——词的鉴赏和运用,lessonid:84833,courseid:14491]
+[2024-08-01 19:31:19,884]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:31:20,849]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722511880207},"msg":"ok","success":true}
