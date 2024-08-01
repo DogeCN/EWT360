@@ -1,0 +1,90 @@
+[2024-08-01 18:12:06,552]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 18:12:06,552]--INFO:[30][account:dhdc434430070],Config INFO speed=1.5,task_advance_day:3,subject_filter=[1,2,3,4,5,6,7,8,9,14,15],password=985211
+[2024-08-01 18:12:14,922]--INFO:[2200][account:dhdc434430070],Start Task [total:14]
+[2024-08-01 18:12:14,922]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 18:12:14,922]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:12:18,351]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 18:12:18,351]--INFO:[2201][account:dhdc434430070],LESSON START, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 18:12:18,353]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:12:24,228]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 18:12:24,229]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66120,courseid:16156]
+[2024-08-01 18:12:24,230]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:12:27,741]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66120,courseid:16156]
+[2024-08-01 18:12:27,741]--INFO:[2201][account:dhdc434430070],LESSON START, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
+[2024-08-01 18:12:27,742]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:12:32,032]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
+[2024-08-01 18:12:32,032]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66121,courseid:16156]
+[2024-08-01 18:12:32,033]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:12:39,464]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66121,courseid:16156]
+[2024-08-01 18:12:39,464]--INFO:[2201][account:dhdc434430070],LESSON START, [title:小选择，大未来,lessonid:86020,courseid:19522]
+[2024-08-01 18:12:39,465]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:12:43,072]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:小选择，大未来,lessonid:86020,courseid:19522]
+[2024-08-01 18:12:43,072]--INFO:[2201][account:dhdc434430070],LESSON START, [title:踏上生涯这条路,lessonid:85798,courseid:19310]
+[2024-08-01 18:12:43,072]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:12:46,659]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:踏上生涯这条路,lessonid:85798,courseid:19310]
+[2024-08-01 18:12:46,659]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66125,courseid:16156]
+[2024-08-01 18:12:46,661]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:12:50,609]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66125,courseid:16156]
+[2024-08-01 18:12:50,609]--INFO:[2201][account:dhdc434430070],LESSON START, [title:初入高中，如何快速交友,lessonid:66027,courseid:14601]
+[2024-08-01 18:12:50,611]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:12:54,068]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:初入高中，如何快速交友,lessonid:66027,courseid:14601]
+[2024-08-01 18:12:54,069]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66127,courseid:16156]
+[2024-08-01 18:12:54,069]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:12:57,516]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66127,courseid:16156]
+[2024-08-01 18:12:57,516]--INFO:[2201][account:dhdc434430070],LESSON START, [title:初高学习有差异，调整心态早适应,lessonid:66033,courseid:14607]
+[2024-08-01 18:12:57,516]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:13:01,778]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:初高学习有差异，调整心态早适应,lessonid:66033,courseid:14607]
+[2024-08-01 18:13:01,779]--INFO:[2201][account:dhdc434430070],LESSON START, [title:多彩高中生活掠影,lessonid:66233,courseid:19312]
+[2024-08-01 18:13:01,779]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:13:06,087]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:多彩高中生活掠影,lessonid:66233,courseid:19312]
+[2024-08-01 18:13:06,088]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66128,courseid:16156]
+[2024-08-01 18:13:06,088]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:13:09,862]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66128,courseid:16156]
+[2024-08-01 18:13:09,862]--INFO:[2201][account:dhdc434430070],LESSON START, [title:马上行动起来，让5%的改变发生,lessonid:66037,courseid:14611]
+[2024-08-01 18:13:09,862]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:13:13,967]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:马上行动起来，让5%的改变发生,lessonid:66037,courseid:14611]
+[2024-08-01 18:31:08,372]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 18:31:08,372]--INFO:[30][account:dhdc434430070],Config INFO speed=1.5,task_advance_day:3,subject_filter=[1,2,3,4,5,6,7,8,9,14,15],password=985211
+[2024-08-01 18:31:13,545]--INFO:[2200][account:dhdc434430070],Start Task [total:14]
+[2024-08-01 18:31:13,547]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 18:31:13,547]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:31:16,899]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 18:31:16,899]--INFO:[2201][account:dhdc434430070],LESSON START, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 18:31:16,900]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:31:22,062]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 18:31:22,062]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66120,courseid:16156]
+[2024-08-01 18:31:22,063]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:31:25,551]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66120,courseid:16156]
+[2024-08-01 18:31:25,551]--INFO:[2201][account:dhdc434430070],LESSON START, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
+[2024-08-01 18:31:25,551]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:31:29,310]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
+[2024-08-01 18:31:29,310]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66121,courseid:16156]
+[2024-08-01 18:31:29,311]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:31:33,089]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66121,courseid:16156]
+[2024-08-01 18:31:33,089]--INFO:[2201][account:dhdc434430070],LESSON START, [title:小选择，大未来,lessonid:86020,courseid:19522]
+[2024-08-01 18:31:33,090]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:31:36,734]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:小选择，大未来,lessonid:86020,courseid:19522]
+[2024-08-01 18:31:36,735]--INFO:[2201][account:dhdc434430070],LESSON START, [title:踏上生涯这条路,lessonid:85798,courseid:19310]
+[2024-08-01 18:31:36,735]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:31:40,516]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:踏上生涯这条路,lessonid:85798,courseid:19310]
+[2024-08-01 18:31:40,516]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66125,courseid:16156]
+[2024-08-01 18:31:40,516]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:31:45,073]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66125,courseid:16156]
+[2024-08-01 18:31:45,074]--INFO:[2201][account:dhdc434430070],LESSON START, [title:初入高中，如何快速交友,lessonid:66027,courseid:14601]
+[2024-08-01 18:31:45,075]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:31:48,604]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:初入高中，如何快速交友,lessonid:66027,courseid:14601]
+[2024-08-01 18:31:48,604]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66127,courseid:16156]
+[2024-08-01 18:31:48,605]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:31:52,115]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66127,courseid:16156]
+[2024-08-01 18:31:52,116]--INFO:[2201][account:dhdc434430070],LESSON START, [title:初高学习有差异，调整心态早适应,lessonid:66033,courseid:14607]
+[2024-08-01 18:31:52,117]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:32:00,813]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:初高学习有差异，调整心态早适应,lessonid:66033,courseid:14607]
+[2024-08-01 18:32:00,813]--INFO:[2201][account:dhdc434430070],LESSON START, [title:多彩高中生活掠影,lessonid:66233,courseid:19312]
+[2024-08-01 18:32:00,814]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:32:05,020]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:多彩高中生活掠影,lessonid:66233,courseid:19312]
+[2024-08-01 18:32:05,021]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66128,courseid:16156]
+[2024-08-01 18:32:05,021]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:32:08,504]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66128,courseid:16156]
+[2024-08-01 18:32:08,505]--INFO:[2201][account:dhdc434430070],LESSON START, [title:马上行动起来，让5%的改变发生,lessonid:66037,courseid:14611]
+[2024-08-01 18:32:08,505]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:32:13,489]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:马上行动起来，让5%的改变发生,lessonid:66037,courseid:14611]

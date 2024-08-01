@@ -7,44 +7,24 @@ import os
 import sys
 import time
 import requests
-from PyQt5.QtWidgets import QMainWindow,QApplication,QDialog
-from PyQt5.QtCore import pyqtSignal
-from PyQt5.QtGui import QStandardItemModel,QStandardItem
+from PySide6.QtWidgets import QMainWindow,QApplication,QDialog
+from PySide6.QtCore import Signal
+from PySide6.QtGui import QStandardItemModel,QStandardItem
 
 import logging
 import threading
 
-from qt_material import apply_stylesheet
-
 from ui import Ui_MainWindow
-from start_ui import Ui_Dialog
 from ewt_core import Ewt_upload_progress
 
 super_core_flag = 0
 is_promise = 0
 
-class StartDialogWindow(QDialog,Ui_Dialog):
-
-    def __init__(self, parent=None):
-        super(StartDialogWindow,self).__init__(parent)
-        self.setupUi(self)
-        self.button_ok.clicked.connect(self.ok)
-        
-    def ok(self):
-        if self.promise_input.text() == "我保证会好好学习，合理利用此工具，并已知悉此工具可能存在的未知风险":
-            myWin.start_1()
-            global is_promise
-            is_promise = 1
-            self.accept()
-
-    def closeEvent(self, event):
-        sys.exit()
-
 
 class MyWindow(QMainWindow,Ui_MainWindow,Ewt_upload_progress):
 
-    update_tableview_signal = pyqtSignal()
-    add_log_signal = pyqtSignal(str)
+    update_tableview_signal = Signal()
+    add_log_signal = Signal(str)
 
     def __init__(self, parent=None):
         super(MyWindow,self).__init__(parent)
@@ -155,11 +135,7 @@ class MyWindow(QMainWindow,Ui_MainWindow,Ewt_upload_progress):
             self.subject_filter = subject_filter
             self.speed = 1.5
 
-        if is_promise==0 or account_change:
-            self.start_dialog_window = StartDialogWindow()
-            self.start_dialog_window.show()
-        else:
-            self.start_1()
+        self.start_1()
     
     def start_1(self):
         self.lessons = []
@@ -184,7 +160,6 @@ class MyWindow(QMainWindow,Ui_MainWindow,Ewt_upload_progress):
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    apply_stylesheet(app, theme='dark_teal.xml')
     myWin = MyWindow()
     myWin.show()
     sys.exit(app.exec_())
