@@ -1,13 +1,11 @@
-# 本程序最后更新于2023/08/04
+# 本程序最后更新于2023/08/03
 # Auther landuoguo
 
-import hashlib
 import json
-import os
 import sys
 import time
 import requests
-from PySide6.QtWidgets import QMainWindow,QApplication,QDialog
+from PySide6.QtWidgets import QMainWindow,QApplication
 from PySide6.QtCore import Signal
 from PySide6.QtGui import QStandardItemModel,QStandardItem
 
@@ -15,7 +13,7 @@ import logging
 import threading
 
 from ui import Ui_MainWindow
-from ewt_core import Ewt_upload_progress
+from core import Ewt_upload_progress
 
 super_core_flag = 0
 is_promise = 0
@@ -64,6 +62,13 @@ class MyWindow(QMainWindow,Ui_MainWindow,Ewt_upload_progress):
         self.log_browser.moveCursor(self.log_browser.textCursor().End) #光标移到末尾
 
     def update_tableview(self):
+        # update remain time
+        if self.time_remain<100*60:
+            time_remain = round(self.time_remain/60,1)
+        else:
+            time_remain = round(self.time_remain/60)
+        self.time_remain_lcd.display(time_remain)
+
         self.model=QStandardItemModel(len(self.lessons),0)
         self.model.setHorizontalHeaderLabels(["Date","Subject","Title","Ratio"])
         for row in range(0,len(self.lessons)):
@@ -87,13 +92,24 @@ class MyWindow(QMainWindow,Ui_MainWindow,Ewt_upload_progress):
         self.lock_login_form(False)
         account = self.account_input.text()
         password = self.password_input.text()
+        speed = self.speed_input.text()
         task_advance_day = self.task_advance_day_input.text()
         if account=="" or password=="":
             self.add_log("[Warning] Account or Password cannot be empty!")
             self.lock_login_form(True)
             return
+        if speed=="":
+            self.add_log("[Warning] Speed cannot be empty!")
+            self.lock_login_form(True)
+            return
         if task_advance_day=="":
             self.add_log("[Warning] Advance Day cannot be empty!")
+            self.lock_login_form(True)
+            return
+        try:
+            speed = round(float(speed),2)
+        except:
+            self.add_log("[Warning] Speed must be an integer or floating number")
             self.lock_login_form(True)
             return
         try:
@@ -103,11 +119,16 @@ class MyWindow(QMainWindow,Ui_MainWindow,Ewt_upload_progress):
             self.lock_login_form(True)
             return
 
-        if task_advance_day>3:
-            self.add_log("[Warning] Advance Day cannot be greater than 3")
+        if speed<1 or speed>2:
+            self.add_log("[Warning] Speed cannot be greater than 2 or less than 1")
             self.lock_login_form(True)
             return
-            
+        if task_advance_day>10:
+            self.add_log("[Warning] Advance Day cannot be greater than 10")
+            self.lock_login_form(True)
+            return
+        
+
         subject_filter = []
         if self.sf1.isChecked(): subject_filter +=[1]
         if self.sf2.isChecked(): subject_filter +=[2]
@@ -125,7 +146,7 @@ class MyWindow(QMainWindow,Ui_MainWindow,Ewt_upload_progress):
 
         global super_core_flag
         if super_core_flag==0:
-            super(Ewt_upload_progress,self).__init__(account, password, task_advance_day,subject_filter,1,1.5)
+            super(Ewt_upload_progress,self).__init__(account, password, task_advance_day,subject_filter,1,speed)
             super_core_flag = 1
         else:
             account_change = 1 if self.account!=account else 0
@@ -133,7 +154,7 @@ class MyWindow(QMainWindow,Ui_MainWindow,Ewt_upload_progress):
             self.password = password
             self.task_advance_day = task_advance_day
             self.subject_filter = subject_filter
-            self.speed = 1.5
+            self.speed = speed
 
         self.start_1()
     

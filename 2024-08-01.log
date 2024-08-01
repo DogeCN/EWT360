@@ -1,90 +1,628 @@
-[2024-08-01 18:12:06,552]--INFO:[2800][account:dhdc434430070],Scanning Lessons
-[2024-08-01 18:12:06,552]--INFO:[30][account:dhdc434430070],Config INFO speed=1.5,task_advance_day:3,subject_filter=[1,2,3,4,5,6,7,8,9,14,15],password=985211
-[2024-08-01 18:12:14,922]--INFO:[2200][account:dhdc434430070],Start Task [total:14]
-[2024-08-01 18:12:14,922]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66042,courseid:16156]
-[2024-08-01 18:12:14,922]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:12:18,351]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66042,courseid:16156]
-[2024-08-01 18:12:18,351]--INFO:[2201][account:dhdc434430070],LESSON START, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
-[2024-08-01 18:12:18,353]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:12:24,228]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
-[2024-08-01 18:12:24,229]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66120,courseid:16156]
-[2024-08-01 18:12:24,230]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:12:27,741]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66120,courseid:16156]
-[2024-08-01 18:12:27,741]--INFO:[2201][account:dhdc434430070],LESSON START, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
-[2024-08-01 18:12:27,742]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:12:32,032]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
-[2024-08-01 18:12:32,032]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66121,courseid:16156]
-[2024-08-01 18:12:32,033]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:12:39,464]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66121,courseid:16156]
-[2024-08-01 18:12:39,464]--INFO:[2201][account:dhdc434430070],LESSON START, [title:小选择，大未来,lessonid:86020,courseid:19522]
-[2024-08-01 18:12:39,465]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:12:43,072]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:小选择，大未来,lessonid:86020,courseid:19522]
-[2024-08-01 18:12:43,072]--INFO:[2201][account:dhdc434430070],LESSON START, [title:踏上生涯这条路,lessonid:85798,courseid:19310]
-[2024-08-01 18:12:43,072]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:12:46,659]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:踏上生涯这条路,lessonid:85798,courseid:19310]
-[2024-08-01 18:12:46,659]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66125,courseid:16156]
-[2024-08-01 18:12:46,661]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:12:50,609]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66125,courseid:16156]
-[2024-08-01 18:12:50,609]--INFO:[2201][account:dhdc434430070],LESSON START, [title:初入高中，如何快速交友,lessonid:66027,courseid:14601]
-[2024-08-01 18:12:50,611]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:12:54,068]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:初入高中，如何快速交友,lessonid:66027,courseid:14601]
-[2024-08-01 18:12:54,069]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66127,courseid:16156]
-[2024-08-01 18:12:54,069]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:12:57,516]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66127,courseid:16156]
-[2024-08-01 18:12:57,516]--INFO:[2201][account:dhdc434430070],LESSON START, [title:初高学习有差异，调整心态早适应,lessonid:66033,courseid:14607]
-[2024-08-01 18:12:57,516]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:13:01,778]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:初高学习有差异，调整心态早适应,lessonid:66033,courseid:14607]
-[2024-08-01 18:13:01,779]--INFO:[2201][account:dhdc434430070],LESSON START, [title:多彩高中生活掠影,lessonid:66233,courseid:19312]
-[2024-08-01 18:13:01,779]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:13:06,087]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:多彩高中生活掠影,lessonid:66233,courseid:19312]
-[2024-08-01 18:13:06,088]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66128,courseid:16156]
-[2024-08-01 18:13:06,088]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:13:09,862]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66128,courseid:16156]
-[2024-08-01 18:13:09,862]--INFO:[2201][account:dhdc434430070],LESSON START, [title:马上行动起来，让5%的改变发生,lessonid:66037,courseid:14611]
-[2024-08-01 18:13:09,862]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:13:13,967]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:马上行动起来，让5%的改变发生,lessonid:66037,courseid:14611]
-[2024-08-01 18:31:08,372]--INFO:[2800][account:dhdc434430070],Scanning Lessons
-[2024-08-01 18:31:08,372]--INFO:[30][account:dhdc434430070],Config INFO speed=1.5,task_advance_day:3,subject_filter=[1,2,3,4,5,6,7,8,9,14,15],password=985211
-[2024-08-01 18:31:13,545]--INFO:[2200][account:dhdc434430070],Start Task [total:14]
-[2024-08-01 18:31:13,547]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66042,courseid:16156]
-[2024-08-01 18:31:13,547]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:31:16,899]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66042,courseid:16156]
-[2024-08-01 18:31:16,899]--INFO:[2201][account:dhdc434430070],LESSON START, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
-[2024-08-01 18:31:16,900]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:31:22,062]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
-[2024-08-01 18:31:22,062]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66120,courseid:16156]
-[2024-08-01 18:31:22,063]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:31:25,551]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66120,courseid:16156]
-[2024-08-01 18:31:25,551]--INFO:[2201][account:dhdc434430070],LESSON START, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
-[2024-08-01 18:31:25,551]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:31:29,310]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
-[2024-08-01 18:31:29,310]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66121,courseid:16156]
-[2024-08-01 18:31:29,311]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:31:33,089]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66121,courseid:16156]
-[2024-08-01 18:31:33,089]--INFO:[2201][account:dhdc434430070],LESSON START, [title:小选择，大未来,lessonid:86020,courseid:19522]
-[2024-08-01 18:31:33,090]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:31:36,734]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:小选择，大未来,lessonid:86020,courseid:19522]
-[2024-08-01 18:31:36,735]--INFO:[2201][account:dhdc434430070],LESSON START, [title:踏上生涯这条路,lessonid:85798,courseid:19310]
-[2024-08-01 18:31:36,735]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:31:40,516]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:踏上生涯这条路,lessonid:85798,courseid:19310]
-[2024-08-01 18:31:40,516]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66125,courseid:16156]
-[2024-08-01 18:31:40,516]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:31:45,073]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66125,courseid:16156]
-[2024-08-01 18:31:45,074]--INFO:[2201][account:dhdc434430070],LESSON START, [title:初入高中，如何快速交友,lessonid:66027,courseid:14601]
-[2024-08-01 18:31:45,075]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:31:48,604]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:初入高中，如何快速交友,lessonid:66027,courseid:14601]
-[2024-08-01 18:31:48,604]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66127,courseid:16156]
-[2024-08-01 18:31:48,605]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:31:52,115]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66127,courseid:16156]
-[2024-08-01 18:31:52,116]--INFO:[2201][account:dhdc434430070],LESSON START, [title:初高学习有差异，调整心态早适应,lessonid:66033,courseid:14607]
-[2024-08-01 18:31:52,117]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:32:00,813]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:初高学习有差异，调整心态早适应,lessonid:66033,courseid:14607]
-[2024-08-01 18:32:00,813]--INFO:[2201][account:dhdc434430070],LESSON START, [title:多彩高中生活掠影,lessonid:66233,courseid:19312]
-[2024-08-01 18:32:00,814]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:32:05,020]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:多彩高中生活掠影,lessonid:66233,courseid:19312]
-[2024-08-01 18:32:05,021]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66128,courseid:16156]
-[2024-08-01 18:32:05,021]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:32:08,504]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66128,courseid:16156]
-[2024-08-01 18:32:08,505]--INFO:[2201][account:dhdc434430070],LESSON START, [title:马上行动起来，让5%的改变发生,lessonid:66037,courseid:14611]
-[2024-08-01 18:32:08,505]--INFO:[0][account:dhdc434430070],Please wait
-[2024-08-01 18:32:13,489]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:马上行动起来，让5%的改变发生,lessonid:66037,courseid:14611]
+[2024-08-01 18:45:23,630]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 18:45:23,631]--INFO:[30][account:dhdc434430070],Config INFO speed=1.5,task_advance_day:3,subject_filter=[1,2,3,4,5,6,7,8,9,14,15],password=985211
+[2024-08-01 18:45:27,796]--INFO:[2200][account:dhdc434430070],Start Task [total:14]
+[2024-08-01 18:45:27,796]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 18:45:27,796]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:45:31,213]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 18:45:31,213]--INFO:[2201][account:dhdc434430070],LESSON START, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 18:45:31,215]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:45:36,709]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 18:45:36,709]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66120,courseid:16156]
+[2024-08-01 18:45:36,711]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:45:40,143]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66120,courseid:16156]
+[2024-08-01 18:45:40,143]--INFO:[2201][account:dhdc434430070],LESSON START, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
+[2024-08-01 18:45:40,144]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:45:43,922]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
+[2024-08-01 18:45:43,922]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66121,courseid:16156]
+[2024-08-01 18:45:43,922]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:50:52,336]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 18:50:52,339]--INFO:[30][account:dhdc434430070],Config INFO speed=1.5,task_advance_day:3,subject_filter=[1,2,3,4,5,6,7,8,9,14,15],password=985211
+[2024-08-01 18:50:56,393]--INFO:[2200][account:dhdc434430070],Start Task [total:14]
+[2024-08-01 18:50:56,393]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 18:50:56,393]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:50:59,879]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 18:50:59,879]--INFO:[2201][account:dhdc434430070],LESSON START, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 18:50:59,879]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:51:05,178]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 18:51:05,179]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66120,courseid:16156]
+[2024-08-01 18:51:05,179]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:51:08,663]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66120,courseid:16156]
+[2024-08-01 18:51:08,664]--INFO:[2201][account:dhdc434430070],LESSON START, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
+[2024-08-01 18:51:08,664]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:51:12,360]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
+[2024-08-01 18:51:12,360]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66121,courseid:16156]
+[2024-08-01 18:51:12,361]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:51:16,440]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66121,courseid:16156]
+[2024-08-01 18:51:16,440]--INFO:[2201][account:dhdc434430070],LESSON START, [title:小选择，大未来,lessonid:86020,courseid:19522]
+[2024-08-01 18:51:16,440]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:51:20,127]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:小选择，大未来,lessonid:86020,courseid:19522]
+[2024-08-01 18:51:20,127]--INFO:[2201][account:dhdc434430070],LESSON START, [title:踏上生涯这条路,lessonid:85798,courseid:19310]
+[2024-08-01 18:51:20,127]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:51:23,819]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:踏上生涯这条路,lessonid:85798,courseid:19310]
+[2024-08-01 18:51:23,819]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66125,courseid:16156]
+[2024-08-01 18:51:23,820]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:51:27,627]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66125,courseid:16156]
+[2024-08-01 18:51:27,627]--INFO:[2201][account:dhdc434430070],LESSON START, [title:初入高中，如何快速交友,lessonid:66027,courseid:14601]
+[2024-08-01 18:51:27,628]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:51:31,074]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:初入高中，如何快速交友,lessonid:66027,courseid:14601]
+[2024-08-01 18:51:31,074]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66127,courseid:16156]
+[2024-08-01 18:51:31,075]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:51:34,649]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66127,courseid:16156]
+[2024-08-01 18:51:34,649]--INFO:[2201][account:dhdc434430070],LESSON START, [title:初高学习有差异，调整心态早适应,lessonid:66033,courseid:14607]
+[2024-08-01 18:51:34,650]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:51:38,453]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:初高学习有差异，调整心态早适应,lessonid:66033,courseid:14607]
+[2024-08-01 18:51:38,453]--INFO:[2201][account:dhdc434430070],LESSON START, [title:多彩高中生活掠影,lessonid:66233,courseid:19312]
+[2024-08-01 18:51:38,455]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:51:42,893]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:多彩高中生活掠影,lessonid:66233,courseid:19312]
+[2024-08-01 18:51:42,893]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66128,courseid:16156]
+[2024-08-01 18:51:42,894]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:51:46,383]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66128,courseid:16156]
+[2024-08-01 18:51:46,384]--INFO:[2201][account:dhdc434430070],LESSON START, [title:马上行动起来，让5%的改变发生,lessonid:66037,courseid:14611]
+[2024-08-01 18:51:46,385]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:51:51,292]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:马上行动起来，让5%的改变发生,lessonid:66037,courseid:14611]
+[2024-08-01 18:53:40,169]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 18:53:40,169]--INFO:[30][account:dhdc434430070],Config INFO speed=1.5,task_advance_day:3,subject_filter=[1,2,3,4,5,6,7,8,9,14,15],password=985211
+[2024-08-01 18:53:43,741]--INFO:[2200][account:dhdc434430070],Start Task [total:14]
+[2024-08-01 18:53:43,741]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 18:53:43,741]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:53:47,232]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 18:53:47,232]--INFO:[2201][account:dhdc434430070],LESSON START, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 18:53:47,232]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:53:53,287]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 18:53:53,288]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66120,courseid:16156]
+[2024-08-01 18:53:53,288]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:53:56,808]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66120,courseid:16156]
+[2024-08-01 18:53:56,808]--INFO:[2201][account:dhdc434430070],LESSON START, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
+[2024-08-01 18:53:56,808]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:54:00,530]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
+[2024-08-01 18:54:00,531]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66121,courseid:16156]
+[2024-08-01 18:54:00,531]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:54:04,492]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66121,courseid:16156]
+[2024-08-01 18:54:04,492]--INFO:[2201][account:dhdc434430070],LESSON START, [title:小选择，大未来,lessonid:86020,courseid:19522]
+[2024-08-01 18:54:04,492]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:54:08,176]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:小选择，大未来,lessonid:86020,courseid:19522]
+[2024-08-01 18:54:08,176]--INFO:[2201][account:dhdc434430070],LESSON START, [title:踏上生涯这条路,lessonid:85798,courseid:19310]
+[2024-08-01 18:54:08,177]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:54:11,897]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:踏上生涯这条路,lessonid:85798,courseid:19310]
+[2024-08-01 18:54:11,898]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66125,courseid:16156]
+[2024-08-01 18:54:11,898]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:54:15,853]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66125,courseid:16156]
+[2024-08-01 18:54:15,853]--INFO:[2201][account:dhdc434430070],LESSON START, [title:初入高中，如何快速交友,lessonid:66027,courseid:14601]
+[2024-08-01 18:54:15,854]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:54:19,362]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:初入高中，如何快速交友,lessonid:66027,courseid:14601]
+[2024-08-01 18:54:19,363]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66127,courseid:16156]
+[2024-08-01 18:54:19,363]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:54:22,861]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66127,courseid:16156]
+[2024-08-01 18:54:22,861]--INFO:[2201][account:dhdc434430070],LESSON START, [title:初高学习有差异，调整心态早适应,lessonid:66033,courseid:14607]
+[2024-08-01 18:54:22,862]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:54:31,042]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:初高学习有差异，调整心态早适应,lessonid:66033,courseid:14607]
+[2024-08-01 18:54:31,042]--INFO:[2201][account:dhdc434430070],LESSON START, [title:多彩高中生活掠影,lessonid:66233,courseid:19312]
+[2024-08-01 18:54:31,043]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:54:35,393]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:多彩高中生活掠影,lessonid:66233,courseid:19312]
+[2024-08-01 18:54:35,393]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66128,courseid:16156]
+[2024-08-01 18:54:35,395]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:54:38,795]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66128,courseid:16156]
+[2024-08-01 18:54:38,795]--INFO:[2201][account:dhdc434430070],LESSON START, [title:马上行动起来，让5%的改变发生,lessonid:66037,courseid:14611]
+[2024-08-01 18:54:38,795]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:54:50,525]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:马上行动起来，让5%的改变发生,lessonid:66037,courseid:14611]
+[2024-08-01 18:58:27,656]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 18:58:27,659]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 18:58:35,220]--INFO:[2200][account:dhdc434430070],Start Task [total:40]
+[2024-08-01 18:58:35,221]--INFO:[2201][account:dhdc434430070],LESSON START, [title:数学开学第一课,lessonid:65620,courseid:14542]
+[2024-08-01 18:58:35,222]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 18:58:44,190]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722509923752},"msg":"ok","success":true}
+[2024-08-01 18:59:41,565]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722509981116},"msg":"ok","success":true}
+[2024-08-01 19:00:19,381]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:00:19,384]--INFO:[30][account:dhdc434430070],Config INFO speed=1.5,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:00:27,608]--INFO:[2200][account:dhdc434430070],Start Task [total:40]
+[2024-08-01 19:00:27,608]--INFO:[2201][account:dhdc434430070],LESSON START, [title:数学开学第一课,lessonid:65620,courseid:14542]
+[2024-08-01 19:00:27,608]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:00:30,824]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:数学开学第一课,lessonid:65620,courseid:14542]
+[2024-08-01 19:00:30,824]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:00:30,824]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:00:34,689]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:00:34,689]--INFO:[2201][account:dhdc434430070],LESSON START, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:00:34,690]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:00:38,962]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:00:38,963]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 19:00:38,964]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:00:42,376]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 19:00:42,377]--INFO:[2201][account:dhdc434430070],LESSON START, [title:化学开学第一课,lessonid:65928,courseid:14521]
+[2024-08-01 19:00:42,378]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:00:46,840]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:化学开学第一课,lessonid:65928,courseid:14521]
+[2024-08-01 19:00:46,840]--INFO:[2201][account:dhdc434430070],LESSON START, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 19:00:46,841]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:00:52,320]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:开学第一课：祝贺你，成为高中生！,lessonid:66022,courseid:14596]
+[2024-08-01 19:00:52,320]--INFO:[2201][account:dhdc434430070],LESSON START, [title:春花秋月，词有芬芳——词的鉴赏和运用,lessonid:84833,courseid:14491]
+[2024-08-01 19:00:52,320]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:00:57,082]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:春花秋月，词有芬芳——词的鉴赏和运用,lessonid:84833,courseid:14491]
+[2024-08-01 19:00:57,083]--INFO:[2201][account:dhdc434430070],LESSON START, [title:乘法公式,lessonid:65171,courseid:18493]
+[2024-08-01 19:00:57,085]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:01:01,777]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:乘法公式,lessonid:65171,courseid:18493]
+[2024-08-01 19:01:01,777]--INFO:[2201][account:dhdc434430070],LESSON START, [title:构词法—合成法,lessonid:66314,courseid:22616]
+[2024-08-01 19:01:01,778]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:01:06,157]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:构词法—合成法,lessonid:66314,courseid:22616]
+[2024-08-01 19:01:06,157]--INFO:[2201][account:dhdc434430070],LESSON START, [title:高中物理必备数学知识,lessonid:65509,courseid:14494]
+[2024-08-01 19:01:06,158]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:01:11,890]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:高中物理必备数学知识,lessonid:65509,courseid:14494]
+[2024-08-01 19:01:11,891]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66120,courseid:16156]
+[2024-08-01 19:01:11,892]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:01:15,426]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66120,courseid:16156]
+[2024-08-01 19:01:15,426]--INFO:[2201][account:dhdc434430070],LESSON START, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
+[2024-08-01 19:01:15,426]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:01:19,082]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:中考后再出发，高中生活新起点,lessonid:66034,courseid:14608]
+[2024-08-01 19:01:19,082]--INFO:[2201][account:dhdc434430070],LESSON START, [title:语短情长，组词有方——短语的基本类型,lessonid:65454,courseid:14491]
+[2024-08-01 19:01:19,083]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:01:24,121]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:语短情长，组词有方——短语的基本类型,lessonid:65454,courseid:14491]
+[2024-08-01 19:01:24,122]--INFO:[2201][account:dhdc434430070],LESSON START, [title:因式分解之十字相乘法,lessonid:65155,courseid:18493]
+[2024-08-01 19:01:24,123]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:01:28,885]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:因式分解之十字相乘法,lessonid:65155,courseid:18493]
+[2024-08-01 19:01:28,885]--INFO:[2201][account:dhdc434430070],LESSON START, [title:派生法—前缀,lessonid:66317,courseid:22616]
+[2024-08-01 19:01:28,889]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:01:34,212]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:派生法—前缀,lessonid:66317,courseid:22616]
+[2024-08-01 19:01:34,212]--INFO:[2201][account:dhdc434430070],LESSON START, [title:高中物理必备实验知识,lessonid:65131,courseid:14494]
+[2024-08-01 19:01:34,213]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:01:38,892]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:高中物理必备实验知识,lessonid:65131,courseid:14494]
+[2024-08-01 19:01:38,893]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66121,courseid:16156]
+[2024-08-01 19:01:38,893]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:01:42,377]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66121,courseid:16156]
+[2024-08-01 19:01:42,377]--INFO:[2201][account:dhdc434430070],LESSON START, [title:酸——硫酸,lessonid:85683,courseid:19222]
+[2024-08-01 19:01:42,377]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:01:46,958]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:酸——硫酸,lessonid:85683,courseid:19222]
+[2024-08-01 19:01:46,958]--INFO:[2201][account:dhdc434430070],LESSON START, [title:小选择，大未来,lessonid:86020,courseid:19522]
+[2024-08-01 19:01:46,959]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:01:50,705]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:小选择，大未来,lessonid:86020,courseid:19522]
+[2024-08-01 19:01:50,706]--INFO:[2201][account:dhdc434430070],LESSON START, [title:踏上生涯这条路,lessonid:85798,courseid:19310]
+[2024-08-01 19:01:50,706]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:01:53,353]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:01:53,354]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:01:54,284]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:01:54,284]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:01:58,835]--INFO:[2200][account:dhdc434430070],Start Task [total:40]
+[2024-08-01 19:01:58,835]--INFO:[2201][account:dhdc434430070],LESSON START, [title:数学开学第一课,lessonid:65620,courseid:14542]
+[2024-08-01 19:01:58,835]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:02:00,803]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510120331},"msg":"ok","success":true}
+[2024-08-01 19:02:47,430]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:02:47,431]--INFO:[30][account:dhdc434430070],Config INFO speed=1.5,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:02:51,555]--INFO:[2200][account:dhdc434430070],Start Task [total:40]
+[2024-08-01 19:02:51,556]--INFO:[2201][account:dhdc434430070],LESSON START, [title:数学开学第一课,lessonid:65620,courseid:14542]
+[2024-08-01 19:02:51,556]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:02:54,725]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:数学开学第一课,lessonid:65620,courseid:14542]
+[2024-08-01 19:02:54,725]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:02:54,725]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:02:59,096]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:02:59,097]--INFO:[2201][account:dhdc434430070],LESSON START, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:02:59,097]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:03:00,071]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510179595},"msg":"ok","success":true}
+[2024-08-01 19:03:01,081]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:03:02,818]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:03:02,818]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 19:03:02,819]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:03:05,427]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:03:05,427]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:03:05,675]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510185203},"msg":"ok","success":true}
+[2024-08-01 19:03:05,709]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510185232},"msg":"ok","success":true}
+[2024-08-01 19:03:06,206]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:03:06,206]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:03:07,440]--INFO:[2201][account:dhdc434430070],LESSON OK, [title:数学开学第一课,lessonid:65620,courseid:14542]
+[2024-08-01 19:03:07,441]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:03:07,441]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:03:08,566]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510188098},"msg":"ok","success":true}
+[2024-08-01 19:03:08,738]--INFO:[2200][account:dhdc434430070],Start Task [total:39]
+[2024-08-01 19:03:08,739]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:03:08,739]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:03:09,966]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510189408},"msg":"ok","success":true}
+[2024-08-01 19:04:09,770]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510249195},"msg":"ok","success":true}
+[2024-08-01 19:04:10,180]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510249415,"eventId":"1-66ab6ba9-1555cb1a-c5b87c131066"}}
+[2024-08-01 19:04:18,658]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:04:18,658]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:04:22,701]--INFO:[2200][account:dhdc434430070],Start Task [total:39]
+[2024-08-01 19:04:22,701]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:04:22,701]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:04:25,423]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510264948},"msg":"ok","success":true}
+[2024-08-01 19:04:41,038]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:04:41,038]--INFO:[30][account:dhdc434430070],Config INFO speed=1.5,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:04:45,667]--INFO:[2200][account:dhdc434430070],Start Task [total:39]
+[2024-08-01 19:04:45,667]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:04:45,668]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:04:49,107]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:04:49,107]--INFO:[2201][account:dhdc434430070],LESSON START, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:04:49,108]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:04:53,478]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:04:53,478]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 19:04:53,478]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:04:56,890]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 19:04:56,891]--INFO:[2201][account:dhdc434430070],LESSON START, [title:化学开学第一课,lessonid:65928,courseid:14521]
+[2024-08-01 19:04:56,891]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:05:09,988]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510309459,"eventId":"1-66ab6be5-156f9d96-384e7fccf824"}}
+[2024-08-01 19:05:10,191]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510309610,"eventId":"1-66ab6be5-15e6bf98-40ee1a0263d6"}}
+[2024-08-01 19:05:10,410]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:05:10,794]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:05:12,436]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:05:12,436]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:05:19,236]--INFO:[2200][account:dhdc434430070],Start Task [total:39]
+[2024-08-01 19:05:19,236]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:05:19,236]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:05:24,191]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510323703},"msg":"ok","success":true}
+[2024-08-01 19:05:25,769]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510325174,"eventId":"1-66ab6bf5-15eb737f-6cf633ccb76c"}}
+[2024-08-01 19:05:27,567]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:05:27,568]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:05:30,825]--INFO:[2200][account:dhdc434430070],Start Task [total:39]
+[2024-08-01 19:05:30,825]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:05:30,826]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:05:32,562]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510332080},"msg":"ok","success":true}
+[2024-08-01 19:06:10,013]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510369470,"eventId":"1-66ab6c21-15d7940b-a39250441ea0"}}
+[2024-08-01 19:06:10,015]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510369495},"msg":"ok","success":true}
+[2024-08-01 19:06:10,015]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510369496},"msg":"ok","success":true}
+[2024-08-01 19:06:10,016]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510369473,"eventId":"1-66ab6c21-1555cb1a-190d93d37b13"}}
+[2024-08-01 19:06:11,222]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:06:11,222]--INFO:[2201][account:dhdc434430070],LESSON START, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:06:11,222]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:06:11,537]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:06:11,537]--INFO:[2201][account:dhdc434430070],LESSON START, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:06:11,538]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:06:12,096]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510371598},"msg":"ok","success":true}
+[2024-08-01 19:06:12,431]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510371942},"msg":"ok","success":true}
+[2024-08-01 19:06:14,979]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:06:14,979]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:06:15,174]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:06:15,175]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:06:17,305]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:06:17,305]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:06:17,511]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:06:17,511]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:06:24,249]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510383764,"eventId":"1-66ab6c2f-150884a4-46b89ef0552f"}}
+[2024-08-01 19:06:25,819]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510385330,"eventId":"1-66ab6c31-15b46564-9a44bf7e6050"}}
+[2024-08-01 19:06:26,258]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510385763},"msg":"ok","success":true}
+[2024-08-01 19:06:27,160]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:06:27,160]--INFO:[2201][account:dhdc434430070],LESSON START, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:06:27,160]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:06:28,031]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510387548},"msg":"ok","success":true}
+[2024-08-01 19:06:32,581]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510392093,"eventId":"1-66ab6c38-15cfb8c8-ff7a9dc845eb"}}
+[2024-08-01 19:06:45,910]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:06:45,910]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:06:46,097]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:06:46,097]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:06:50,228]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:06:50,228]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:06:50,491]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:06:50,491]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:07:03,589]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:07:03,589]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:07:08,196]--INFO:[2200][account:dhdc434430070],Start Task [total:39]
+[2024-08-01 19:07:08,197]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:07:08,198]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:07:11,867]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510431312},"msg":"ok","success":true}
+[2024-08-01 19:07:12,472]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510431915,"eventId":"1-66ab6c5f-15638ac1-f5b45ba098c2"}}
+[2024-08-01 19:07:12,648]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510432133,"eventId":"1-66ab6c60-15a4c68a-8f5bd02c84a5"}}
+[2024-08-01 19:07:14,608]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:07:14,609]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:07:17,029]--INFO:[2200][account:dhdc434430070],Start Task [total:39]
+[2024-08-01 19:07:17,029]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:07:17,030]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:07:17,849]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510437359},"msg":"ok","success":true}
+[2024-08-01 19:07:20,137]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510439650},"msg":"ok","success":true}
+[2024-08-01 19:07:20,160]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510439651,"eventId":"1-66ab6c67-15464772-0e8f8bae0df7"}}
+[2024-08-01 19:07:21,855]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:07:21,855]--INFO:[2201][account:dhdc434430070],LESSON START, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:07:21,856]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:07:24,322]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510443812},"msg":"ok","success":true}
+[2024-08-01 19:07:28,156]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510447668,"eventId":"1-66ab6c6f-15e79e22-0bca3d35878a"}}
+[2024-08-01 19:07:30,372]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:07:30,372]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:07:32,539]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510452039},"msg":"ok","success":true}
+[2024-08-01 19:07:32,539]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510452031,"eventId":"1-66ab6c74-15638ac1-56ea8cc17e31"}}
+[2024-08-01 19:07:34,226]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:07:34,226]--INFO:[2201][account:dhdc434430070],LESSON START, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:07:34,227]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:07:36,362]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:07:36,362]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:07:36,488]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510455992},"msg":"ok","success":true}
+[2024-08-01 19:07:36,657]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:07:36,657]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:07:38,384]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:07:38,385]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:07:38,561]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:07:38,561]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:07:39,373]--INFO:[2200][account:dhdc434430070],Start Task [total:28]
+[2024-08-01 19:07:39,373]--INFO:[2201][account:dhdc434430070],LESSON START, [title:语短情长，组词有方——短语的基本类型,lessonid:65454,courseid:14491]
+[2024-08-01 19:07:39,373]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:07:40,273]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510459770},"msg":"ok","success":true}
+[2024-08-01 19:08:11,519]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510491009,"eventId":"1-66ab6c9a-15eddb2b-fe646018ee5c"}}
+[2024-08-01 19:08:12,273]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510491782,"eventId":"1-66ab6c9b-15eddb2b-4dfabecb9778"}}
+[2024-08-01 19:08:12,612]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510492106,"eventId":"1-66ab6c9c-152671d6-0523fa60b0a8"}}
+[2024-08-01 19:08:17,909]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510497403,"eventId":"1-66ab6ca1-1586adb3-25e38759fde2"}}
+[2024-08-01 19:08:24,239]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510503734,"eventId":"1-66ab6ca7-15a4c68a-4873a6ca20ca"}}
+[2024-08-01 19:08:28,257]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:28,257]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:28,325]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510507809,"eventId":"1-66ab6cab-15b46cfd-83c9d046b4d0"}}
+[2024-08-01 19:08:29,059]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:29,060]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:29,376]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:29,376]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:29,558]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:29,558]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:30,435]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:30,435]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:30,637]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:30,638]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:31,206]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:31,206]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:31,430]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:31,431]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:31,861]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:31,861]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:32,132]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:32,132]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:32,356]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:32,356]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:32,509]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:32,510]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:32,736]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:32,736]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:32,891]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:32,891]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:33,097]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:33,098]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:33,305]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:33,305]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:33,474]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:33,474]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:33,668]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:33,669]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:33,864]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:33,864]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:34,115]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:34,115]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:34,349]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:34,349]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:34,455]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:34,455]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:34,560]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:34,561]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:34,768]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:34,768]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:35,013]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:35,013]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:35,211]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:35,212]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:35,346]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:35,348]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:35,523]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:35,523]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:35,886]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:35,886]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:36,073]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:36,074]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:36,439]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:36,440]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:36,570]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:36,570]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:36,574]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510516079},"msg":"ok","success":true}
+[2024-08-01 19:08:36,895]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:36,895]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:37,050]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:37,051]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:37,248]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:37,248]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:37,406]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:37,406]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:37,638]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:37,638]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:37,944]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:37,944]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:38,166]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:38,166]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:38,368]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:38,369]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:38,564]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:38,564]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:38,712]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:38,712]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:38,958]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:38,959]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:39,655]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:39,655]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:39,819]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:39,819]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:39,935]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:39,936]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:40,295]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:40,295]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:40,349]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510519837,"eventId":"1-66ab6cb7-1555cb1a-9eaf88e9fc9a"}}
+[2024-08-01 19:08:40,476]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:40,476]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:40,531]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:40,531]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:40,739]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:40,739]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:42,351]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:42,351]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:42,580]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:42,580]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:43,314]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:43,315]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:43,481]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:43,481]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:08:43,966]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:08:43,966]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:08:44,208]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:08:44,208]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:09:11,524]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:09:11,524]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:09:11,548]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510551038,"eventId":"1-66ab6cd7-15cfb8c8-5d53bfcf0c18"}}
+[2024-08-01 19:09:11,549]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510551036},"msg":"ok","success":true}
+[2024-08-01 19:09:12,698]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510552187,"eventId":"1-66ab6cd8-155b7523-80d948bb4b29"}}
+[2024-08-01 19:09:12,727]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510552213,"eventId":"1-66ab6cd8-15ed6fe1-f4fbbba17e00"}}
+[2024-08-01 19:09:13,354]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:09:13,753]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:09:16,106]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510555595},"msg":"ok","success":true}
+[2024-08-01 19:09:16,117]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510555615},"msg":"ok","success":true}
+[2024-08-01 19:09:16,433]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510555931},"msg":"ok","success":true}
+[2024-08-01 19:09:16,442]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510555933},"msg":"ok","success":true}
+[2024-08-01 19:09:16,578]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:09:16,579]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:09:16,907]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:09:16,907]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:09:17,848]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510557334,"eventId":"1-66ab6cdd-15100270-6385882b9212"}}
+[2024-08-01 19:09:17,853]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510557341},"msg":"ok","success":true}
+[2024-08-01 19:09:18,514]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:09:18,515]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:09:19,926]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:09:19,926]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:09:20,136]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:09:20,137]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:09:22,934]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:09:22,934]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:09:24,039]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:09:26,968]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510566458,"eventId":"1-66ab6ce6-157f3f32-492dc527fa29"}}
+[2024-08-01 19:09:27,103]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:09:27,103]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:09:28,877]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:09:28,877]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:09:29,101]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:09:29,101]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:09:29,156]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510568644,"eventId":"1-66ab6ce8-15b46cfd-7bdac9b60241"}}
+[2024-08-01 19:09:29,686]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:09:30,816]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:09:30,816]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:09:31,018]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:09:31,018]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:09:32,113]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510571603},"msg":"ok","success":true}
+[2024-08-01 19:09:32,114]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510571597},"msg":"ok","success":true}
+[2024-08-01 19:09:32,569]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:09:32,569]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:09:33,868]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:09:33,869]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:09:34,528]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:09:34,529]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:09:35,340]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510574824,"eventId":"1-66ab6cee-154d6517-32d5046cd49c"}}
+[2024-08-01 19:09:36,319]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:09:38,512]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:09:38,512]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:09:38,726]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:09:38,726]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:09:41,431]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:09:41,661]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:09:41,661]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:09:41,823]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510581316,"eventId":"1-66ab6cf5-15429de7-04fb5edf9c54"}}
+[2024-08-01 19:09:41,887]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:09:41,887]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:10:23,017]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:10:23,017]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:10:23,093]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510622580},"msg":"ok","success":true}
+[2024-08-01 19:10:27,189]--INFO:[2200][account:dhdc434430070],Start Task [total:39]
+[2024-08-01 19:10:27,189]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:10:27,190]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:10:27,582]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510627063},"msg":"ok","success":true}
+[2024-08-01 19:10:27,632]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510627113},"msg":"ok","success":true}
+[2024-08-01 19:10:28,102]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510627587},"msg":"ok","success":true}
+[2024-08-01 19:10:28,599]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:10:28,599]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 19:10:28,599]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:10:29,540]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510629020},"msg":"ok","success":true}
+[2024-08-01 19:10:35,396]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510634872,"eventId":"1-66ab6d2a-15eddb2b-4722e4b07c1e"}}
+[2024-08-01 19:10:36,950]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:10:36,950]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:10:40,210]--INFO:[2200][account:dhdc434430070],Start Task [total:39]
+[2024-08-01 19:10:40,210]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:10:40,210]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:10:40,343]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510639834},"msg":"ok","success":true}
+[2024-08-01 19:10:40,344]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510639806},"msg":"ok","success":true}
+[2024-08-01 19:10:40,602]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510640053,"eventId":"1-66ab6d30-15eb737f-15265b43b03c"}}
+[2024-08-01 19:10:40,936]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:10:40,937]--INFO:[2201][account:dhdc434430070],LESSON START, [title:眼保健操,lessonid:66042,courseid:16156]
+[2024-08-01 19:10:40,937]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:10:41,441]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510640916},"msg":"ok","success":true}
+[2024-08-01 19:10:41,747]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510641239},"msg":"ok","success":true}
+[2024-08-01 19:10:44,680]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:10:44,680]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:10:47,651]--INFO:[2200][account:dhdc434430070],Start Task [total:39]
+[2024-08-01 19:10:47,652]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:10:47,652]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:10:48,621]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510648101},"msg":"ok","success":true}
+[2024-08-01 19:11:29,241]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510688716,"eventId":"1-66ab6d60-157f3f32-04d01044ae89"}}
+[2024-08-01 19:11:29,644]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510689124,"eventId":"1-66ab6d61-1555cb1a-65d757500f1f"}}
+[2024-08-01 19:11:40,337]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:11:40,338]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:11:41,476]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:11:41,477]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:11:41,634]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510701111},"msg":"ok","success":true}
+[2024-08-01 19:11:41,656]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510701126,"eventId":"1-66ab6d6d-159ca704-04122ba1e5d1"}}
+[2024-08-01 19:11:42,121]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510701601,"eventId":"1-66ab6d6d-15c3c2de-ec1facb1d77f"}}
+[2024-08-01 19:11:44,657]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:11:44,657]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:11:44,848]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:11:44,848]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:11:48,722]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510708170,"eventId":"1-66ab6d74-15ed6fe1-c1271d65d570"}}
+[2024-08-01 19:12:13,609]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:12:13,609]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:12:14,827]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:12:14,828]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:12:17,597]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:12:17,597]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:12:17,816]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:12:17,817]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:12:26,022]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510745489,"eventId":"1-66ab6d99-15d7940b-2743803f1e96"}}
+[2024-08-01 19:12:26,025]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:12:26,025]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:12:26,028]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510745492},"msg":"ok","success":true}
+[2024-08-01 19:12:28,053]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510747535,"eventId":"1-66ab6d9b-15ed6fe1-f38b61f8eb23"}}
+[2024-08-01 19:12:28,104]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510747577},"msg":"ok","success":true}
+[2024-08-01 19:12:28,577]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:12:28,577]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:12:28,934]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:12:28,934]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:12:29,140]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:12:29,140]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:12:30,397]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:12:30,397]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:12:30,581]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:12:30,581]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:12:38,270]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510757737},"msg":"ok","success":true}
+[2024-08-01 19:12:38,279]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510757746},"msg":"ok","success":true}
+[2024-08-01 19:12:38,306]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:12:38,307]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:12:40,815]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510760234,"eventId":"1-66ab6da8-1528605e-bb26a6385733"}}
+[2024-08-01 19:12:41,074]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:12:41,075]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:12:41,116]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510760583},"msg":"ok","success":true}
+[2024-08-01 19:12:41,149]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510760611,"eventId":"1-66ab6da8-153bdf28-99e4de7a6da2"}}
+[2024-08-01 19:12:41,201]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:12:41,201]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:12:41,650]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:12:41,650]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:12:41,737]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:12:43,302]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:12:43,303]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:12:43,510]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:12:43,510]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:12:44,552]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:12:44,552]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:12:44,764]--ERROR:[5020][account:dhdc434430070],{"msg":"请完成安全验证后再登录","code":"017129","data":null,"success":false}
+[2024-08-01 19:12:44,765]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:12:52,629]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510772094,"eventId":"1-66ab6db4-155b7523-f356a16a1303"}}
+[2024-08-01 19:12:52,686]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510772115},"msg":"ok","success":true}
+[2024-08-01 19:12:53,164]--ERROR:[5004][account:dhdc434430070],{"success":false,"code":"2001106","msg":"页面失效，请重新登录","data":null}
+[2024-08-01 19:12:53,164]--ERROR:[10][account:dhdc434430070], Cut class thread exited abnormally
+[2024-08-01 19:13:04,962]--INFO:[2800][account:dhdc434430070],Scanning Lessons
+[2024-08-01 19:13:04,963]--INFO:[30][account:dhdc434430070],Config INFO speed=2.0,task_advance_day:3,subject_filter=[],password=985211
+[2024-08-01 19:13:09,222]--INFO:[2200][account:dhdc434430070],Start Task [total:39]
+[2024-08-01 19:13:09,222]--INFO:[2201][account:dhdc434430070],LESSON START, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:13:09,223]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:13:12,055]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510791520},"msg":"ok","success":true}
+[2024-08-01 19:13:33,607]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510813065},"msg":"ok","success":true}
+[2024-08-01 19:13:33,616]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510813083,"eventId":"1-66ab6ddd-15100270-4627664bd736"}}
+[2024-08-01 19:13:38,928]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:语短情长，组词有方——短语的基本类型,lessonid:65454,courseid:14491]
+[2024-08-01 19:13:38,928]--INFO:[2201][account:dhdc434430070],LESSON START, [title:因式分解之十字相乘法,lessonid:65155,courseid:18493]
+[2024-08-01 19:13:38,929]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:13:39,940]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510819399},"msg":"ok","success":true}
+[2024-08-01 19:14:11,922]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510851360,"eventId":"1-66ab6e03-15b46564-3eac0ad94454"}}
+[2024-08-01 19:14:40,943]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510880401},"msg":"ok","success":true}
+[2024-08-01 19:15:11,878]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510911340},"msg":"ok","success":true}
+[2024-08-01 19:15:11,920]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510911364,"eventId":"1-66ab6e3f-1589bf20-345a4fc0b9c6"}}
+[2024-08-01 19:15:13,248]--INFO:[2205][account:dhdc434430070],LESSON Incomplete !!!, [title:英语开学第一课,lessonid:65685,courseid:14773]
+[2024-08-01 19:15:13,248]--INFO:[2201][account:dhdc434430070],LESSON START, [title:物理开学第一课,lessonid:65915,courseid:14495]
+[2024-08-01 19:15:13,248]--INFO:[0][account:dhdc434430070],Please wait
+[2024-08-01 19:15:14,759]--INFO:[3][account:dhdc434430070],{"code":200,"data":{"ts":1722510914213},"msg":"ok","success":true}
+[2024-08-01 19:15:40,974]--ERROR:[5011][account:dhdc434430070],{"success":false,"code":699001,"msg":"同学，一心勿多用，学累了，可以休息下，小e已为您自动暂停播放该视频","data":{"ts":1722510940426,"eventId":"1-66ab6e5c-156f9d96-5269eb7733dc"}}

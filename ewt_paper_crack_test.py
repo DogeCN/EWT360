@@ -4,12 +4,8 @@
 
 import os
 import hashlib
-import hmac
 import math
-import random
-import sys
 import time
-from urllib import parse
 import requests
 import json
 
